@@ -1,4 +1,4 @@
-This is the docker files of the discovery service for the Syncthing project - https://github.com/syncthing.
+The docker files for the discovery service (the Syncthing project - https://github.com/syncthing).
 
 The files are for v0.11 protocol.
 
