@@ -19,7 +19,7 @@ Then, you can set up this container as a systemd service (and enable its autosta
 ```
 systemctl enable discosrv
 systemctl enable docker
-``
+```
 
 To check the service status run:
 
